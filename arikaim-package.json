@@ -1,12 +1,19 @@
 {   
-    "title": "Foundation for Emails",
+    "title": "Inky",
     "name": "foundation-emails",
-    "version": "2.2.2",
+    "version": "2.3.1",
     "package-type": "library",
     "repository": "https://github.com/arikaim/foundation-emails-library.git",
     "help": "https://foundation.zurb.com/emails/docs/css-guide.html",
-    "description": "Quickly create responsive HTML emails that work",
+    "description": "Foundation for Emails.Quickly create responsive HTML emails that work",
     "files": [
-        "foundation-emails.css"            
-    ]
+        "foundation-emails.min.css"            
+    ],
+    "versions": {
+        "source": {
+            "files": [
+                "foundation-emails.css"   
+            ]
+        }
+    }
 }
